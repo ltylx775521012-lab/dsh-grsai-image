@@ -1,4 +1,5 @@
 .grsai-key
+.github-token
 *.key
 *.secret
 gpt生成图片/
