@@ -1,0 +1,5 @@
+.grsai-key
+*.key
+*.secret
+gpt生成图片/
+生成图-*.png
